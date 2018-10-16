@@ -22,6 +22,15 @@ public class ListElement {
 		this.previous = null;
 	}
 	
+	public void setData(int data)
+	{
+		this.data = data;
+	}
+	
+	public int getDta()
+	{
+		return this.data;
+	}
 	
 	
 	
